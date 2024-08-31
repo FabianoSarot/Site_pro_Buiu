@@ -1,113 +1,113 @@
 export const perguntas = [
     {
-        enunciado: "1. Qual é a sua refeição favorita do dia?",
+        enunciado: "1. Qual é a rais de 64?",
         alternativas: [
             {
-                texto: "A) Café da manhã",
+                texto: " 8",
                 afirmacao: [
-                    " O Tradicionalista. Você é alguém que valoriza a rotina e gosta de conforto. Na culinária, isso se reflete em sua preferência por refeições familiares e sabores clássicos. Você gosta de manter as coisas simples e tende a ser uma pessoa confiável e calma."
+                    " Resposta correta!"
                 ],
                 proxima: 1,
             },
             {
-                texto: "B) Almoço",
+                texto: " 6,
                 afirmacao: [
-                    "O Aventureiro. Você adora experimentar novos sabores e é conhecido por ser curioso e ousado na vida e na cozinha. Seja um prato novo ou uma combinação inusitada de temperos, você não tem medo de se arriscar. Sua personalidade é extrovertida e aberta a novidades."
-                ],
+                    " Resposta errada..."
+                    ],
                 proxima: 2,
             },
         ]
     },
     {
-        enunciado: "2. Qual tipo de cozinha você prefere?",
+        enunciado: "2. Qual o maior organismo do mundo?",
         alternativas: [
             {
-                texto: "Brasileira (feijoada, churrasco)",
+                texto: "Um mamífero",
                 afirmacao: [
-                    "O Tradicionalista. Você é alguém que valoriza a rotina e gosta de conforto. Na culinária, isso se reflete em sua preferência por refeições familiares e sabores clássicos. Você gosta de manter as coisas simples e tende a ser uma pessoa confiável e calma.",
+                    "Resposta errada...",
     
                 ],
                 proxima: 3,
             },
             {
-                texto: " Italiana (massas, pizzas)",
+                texto: " Um fungo", 
                 afirmacao: [
-                    "O Equilibrado. Você busca equilíbrio em tudo o que faz, e isso se reflete no seu gosto pela culinária. Gosta de refeições bem preparadas, com sabores harmônicos e de qualidade. Na vida, você é uma pessoa que busca estabilidade e harmonia, tanto no trabalho quanto nas relações."
+                    "Resposta correta!"
                 ],
                 proxima: 4,
             },
         ]
     },
     {
-        enunciado: "Quando você vai a um restaurante, você:",
+        enunciado: "Qual é o rio mais extenso do mundo?",
         alternativas: [
             {
-                texto: "Sempre pede o mesmo prato",
+                texto: "Rio Nilo",
                 afirmacao: [
-                    "O Tradicionalista. Você é alguém que valoriza a rotina e gosta de conforto. Na culinária, isso se reflete em sua preferência por refeições familiares e sabores clássicos. Você gosta de manter as coisas simples e tende a ser uma pessoa confiável e calma."
+                    "Resposta correta!"
                 ],
                 proxima: 3,
             },
             {
-                texto: "Escolhe algo que viu nas redes sociais",
+                texto: "Rio Amazonas",
                 afirmacao: [
-                    " O Equilibrado. Você busca equilíbrio em tudo o que faz, e isso se reflete no seu gosto pela culinária. Gosta de refeições bem preparadas, com sabores harmônicos e de qualidade. Na vida, você é uma pessoa que busca estabilidade e harmonia, tanto no trabalho quanto nas relações."
+                    " Resposta errada..."
                 ],
                 proxima: 4,
             },
         ]
     },
     {
-        enunciado: " Qual é sua sobremesa favorita?",
+        enunciado: " Onde surgiu a humanidade?",
         alternativas: [
             {
-                texto: " Sorvete",
+                texto: " Europa",
                 afirmacao: [
-                    "O Tradicionalista. Você é alguém que valoriza a rotina e gosta de conforto. Na culinária, isso se reflete em sua preferência por refeições familiares e sabores clássicos. Você gosta de manter as coisas simples e tende a ser uma pessoa confiável e calma."
+                    " Resposta errada...
                 ],
                 proxima: 5,
             },
             {
-                texto: "Pudim",
+                texto: "África central",
                 afirmacao: [
-                    " O Intenso. Seus gostos são fortes e definidos, tanto na culinária quanto na vida. Você gosta de viver tudo com intensidade e paixão. Temperos marcantes e pratos ousados chamam sua atenção, assim como situações desafiadoras e emoções profundas."
+                    " Resposta correta!"
                 ],
                 proxima: 6,
             },
         ]
     },
     {
-        enunciado: "Qual tipo de cozinha você prefere?",
+        enunciado: "Qual o primeio elemento da tabela periódica?",
         alternativas: [
             {
-                texto: "Japonesa (sushi, sashimi)",
+                texto: "Hidrogênio",
                 afirmacao: [
-                    "O Aventureiro. Você adora experimentar novos sabores e é conhecido por ser curioso e ousado na vida e na cozinha. Seja um prato novo ou uma combinação inusitada de temperos, você não tem medo de se arriscar. Sua personalidade é extrovertida e aberta a novidades."
+                    "Resposta correta!"
                 ],
                 proxima: 7,
             },
             {
-                texto: "Mexicana (tacos, nachos)",
+                texto: "Oxigênio",
                 afirmacao: [
-                    "O Intenso. Seus gostos são fortes e definidos, tanto na culinária quanto na vida. Você gosta de viver tudo com intensidade e paixão. Temperos marcantes e pratos ousados chamam sua atenção, assim como situações desafiadoras e emoções profundas.O que você achou desse formato? Quer ajustar algo no quiz?"
+                    "Resposta errada..."
                 ],
                 proxima: 8,
             },
         ]
     },
     {
-        enunciado: "Como você gosta de temperar a comida?",
+        enunciado: "Você gostou do teste?",
         alternativas: [
             {
-                texto: " Leve, com poucas ervas e sal",
+                texto: " Sim!",
                 afirmacao: [
-                    "O Aventureiro. Você adora experimentar novos sabores e é conhecido por ser curioso e ousado na vida e na cozinha. Seja um prato novo ou uma combinação inusitada de temperos, você não tem medo de se arriscar. Sua personalidade é extrovertida e aberta a novidades."
+                    "Obrigado, sintasse a vontade para jogar novamente!"
                 ],
             },
             {
-                texto: "Bem temperada, com bastante especiarias",
+                texto: "Não",
                 afirmacao: [
-                    "O Aventureiro. Você adora experimentar novos sabores e é conhecido por ser curioso e ousado na vida e na cozinha. Seja um prato novo ou uma combinação inusitada de temperos, você não tem medo de se arriscar. Sua personalidade é extrovertida e aberta a novidades."
+                    "Sinto muito, gostaria de saber o que você não gostou."
                 ],
             },
         ]
